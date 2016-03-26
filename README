@@ -1,0 +1,7 @@
+This program queries Coca Cola's 'profanity API' to discover words blocked by the GIF the Feeling ad campaign. 
+
+Usage: $ python coke.py [wordlist] [ISO country code]
+
+The defaults are /usr/share/dict/words and US
+
+
